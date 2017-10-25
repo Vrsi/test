@@ -11,6 +11,10 @@ done < servers.txt
 # test merge
 # CO TU BUDE?
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+#sss
+>>>>>>> Stashed changes
+=======
 #sss
 >>>>>>> Stashed changes
 =======
