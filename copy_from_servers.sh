@@ -6,3 +6,4 @@ while read server; do
 done < servers.txt
 # zmena zmena test1sadasda
 adasd
+asd
