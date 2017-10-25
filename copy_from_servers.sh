@@ -5,3 +5,4 @@ while read server; do
     mv /home/xvrsas00/Dokumenty/BP_testy/list_of_uris /home/xvrsas00/Dokumenty/BP_testy/list_of_uris_$server
 done < servers.txtasdasd
 asd
+asd
