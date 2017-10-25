@@ -7,3 +7,4 @@ done < servers.txtasdasd
 asd
 asd
 asd
+asdad
