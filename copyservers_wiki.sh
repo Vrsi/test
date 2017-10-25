@@ -2,6 +2,21 @@
 
 while read server; do
     scp -r /home/xvrsas00/Dokumenty/CP_na_servery/slave_server_xvrsas00 $server:/mnt/data/indexes/wikipedia
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+done < servers.txtasdada
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+asd
+=======
+=======
+>>>>>>> Stashed changes
+=======
+<<<<<<< Updated upstream
+done < servers.txtasdad
+=======
+>>>>>>> Stashed changes
 done < servers.txt
 <<<<<<< Updated upstream
 # zmena zmena test1
@@ -18,5 +33,14 @@ done < servers.txt
 #sss
 >>>>>>> Stashed changes
 =======
-#sss
+#sssasd
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 >>>>>>> Stashed changes
