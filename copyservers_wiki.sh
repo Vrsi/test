@@ -5,8 +5,11 @@ while read server; do
 <<<<<<< Updated upstream
 done < servers.txtasdada
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 asd
 =======
+=======
+>>>>>>> Stashed changes
 =======
 <<<<<<< Updated upstream
 done < servers.txtasdad
@@ -31,4 +34,7 @@ done < servers.txt
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
