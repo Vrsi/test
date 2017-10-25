@@ -6,3 +6,4 @@ while read server; do
 done < servers.txtasdasd
 asd
 asd
+asd
