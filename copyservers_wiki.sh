@@ -8,3 +8,4 @@ done < servers.txt
 # CO TU BUDE?
 #sss
 ahoj kamo
+cus buddy
