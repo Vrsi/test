@@ -7,3 +7,4 @@ done < servers.txt
 # test merge
 # CO TU BUDE?
 #sss
+ahoj kamo
