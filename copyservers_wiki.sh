@@ -9,3 +9,4 @@ done < servers.txt
 #sss
 ahoj kamo
 cus buddy
+zkousim remote update
