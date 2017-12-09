@@ -7,3 +7,4 @@ done < servers.txt
 # zmena zmena test1sadasda
 adasd
 asd
+testuju pole
