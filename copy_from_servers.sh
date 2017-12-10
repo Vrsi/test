@@ -10,3 +10,4 @@ asd
 asdad
 Zkousim co muzu
 testovani remote branch
+testovani parametru -p
