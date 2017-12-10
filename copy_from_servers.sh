@@ -6,3 +6,4 @@ while read server; do
 done < servers.txt
 #ssssssss
 # jeste jednouasdadsadsasd
+testovani parametru - test2
