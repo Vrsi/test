@@ -7,3 +7,4 @@ done < servers.txt
 #ssssssss
 # jeste jednouasdadsadsasd
 testovani parametru - test2
+supr zkousime parametr -p
