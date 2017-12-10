@@ -8,3 +8,4 @@ done < servers.txt
 adasd
 asd
 testuju pole
+testovani parametru
